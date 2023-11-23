@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mayur-kun
-- 👀 I’m interested in data science machine learning and sports analytics
-- 🌱 I’m currently learning Python, SQL, Statistics and Machine Learning
-- 💞️ I’m looking to collaborate on projects in sports analytics
+- 👀 I’m interested in data science and machine learning.
+- 💞️ I am currently exploring the sports analytics domain, and I'm open to collaborating for any DS/ML projects.
 
 <!---
 mayur-kun/mayur-kun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
