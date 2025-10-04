@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayur-kun
-- 👀 I'm open to collaborating for any ML/GenAI projects.
+- 👀 Building Auralynk, to gamify everything.
 
 <!---
 mayur-kun/mayur-kun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
